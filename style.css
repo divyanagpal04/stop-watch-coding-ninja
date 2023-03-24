@@ -1,0 +1,70 @@
+body{
+
+background-color:rgb(8, 90, 115);
+display: flex;
+align-items: center;
+justify-content: center;
+height: 100vh;
+border-radius: 50%;
+}
+
+
+.digit {
+
+    font-size: 100px;
+   color: purple;
+   font-weight: bold;
+}
+
+.txt{
+    font-size: 30px;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+
+
+#Start{
+    background-color: #1abc9c;
+    color: pink;
+    font-weight: bold;
+}
+
+#Stop{
+    background-color: red;
+    color:pink;
+    font-weight: bold;
+}
+
+#Restart{
+    background-color: green;
+    color: pink;
+    font-weight: bold;
+}
+
+#btn-container{
+    text-align: center;
+justify-content: center;
+margin-top: 40px;
+}
+
+.buttons{
+    font-size: 15px;
+    margin: 10px 7px;
+    border: 0px;
+    cursor: pointer;
+    padding: 10px 30px;
+
+    border-radius: 5px 20px 10px 20px;
+}
+
+#center{
+ background-color:rgb(30, 9, 25);
+ display: flex;
+align-items: center;
+justify-content: center;
+padding: 50px 50px 50px 50px;
+border-radius: 18px ;
+}
+
+
